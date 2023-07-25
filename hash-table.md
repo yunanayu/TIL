@@ -116,4 +116,4 @@ print(hash('a'))  # 실행시마다 다름
 - https://docs.python.org/ko/3.9/glossary.html#term-hashable
 
 
-수정수정
+수정수정~~~
